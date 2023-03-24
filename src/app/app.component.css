@@ -1,0 +1,11 @@
+.first_last {
+    font-weight: bold;    
+}
+
+.even {
+    color: blue;
+}
+
+.odd{
+    color: red;
+}
