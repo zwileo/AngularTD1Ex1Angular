@@ -10,5 +10,7 @@ export class AppComponent {
   
   nom:string = "Jean"
   
-  verif:boolean=false
+  verif:boolean=false;
+
+  element:number=1
 }
